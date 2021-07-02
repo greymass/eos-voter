@@ -132,7 +132,7 @@
     "css-loader": "^3.0.0",
     "detect-port": "^1.2.3",
     "devtron": "^1.4.0",
-    "electron": "8.2.1",
+    "electron": "9.4.0",
     "electron-builder": "^22.6.0",
     "electron-debug": "^2.0.0",
     "electron-devtools-installer": "^3.1.1",
