@@ -78,7 +78,7 @@
     "i18next-electron-language-detector": "^0.0.10",
     "i18next-sprintf-postprocessor": "^0.2.2",
     "i18next-sync-fs-backend": "^1.1.1",
-    "node-notifier": "^5.4.3",
+    "node-notifier": "^8.0.1",
     "p-queue": "^6.6.2",
     "pretty-bytes": "^5.1.0",
     "qrcode": "^1.4.4",
