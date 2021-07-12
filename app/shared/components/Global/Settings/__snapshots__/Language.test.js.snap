@@ -47,7 +47,7 @@ exports[`GlobalSettingsLanguage renders correctly 1`] = `
       Object {
         "flag": "kr",
         "key": "kr",
-        "text": "한글",
+        "text": "한국어",
         "value": "ko-KR",
       },
       Object {

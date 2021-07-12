@@ -1,5 +1,13 @@
 {
-  "producer_voting": "블록 프로듀서 투표하기",
+  "button_manage_blockchains": "블록체인 관리",
+  "button_manage_wallets": "지갑 관리",
+  "dropdown_select_blockchain": "블록체인을 선택해주세요...",
+  "governance": "거버넌스",
+  "home": "홈",
+  "setup": "계정 설정",
+  "minimize": "메뉴 최소화",
+  "producer_voting": "블록프로듀서 투표",
+  "resources": "자원",
   "tools": "도구",
   "wallet": "지갑"
 }

@@ -9,7 +9,7 @@ const languages = [
   { key: 'fr', value: 'fr-FR', flag: 'fr', text: 'Français' },
   { key: 'it', value: 'it-IT', flag: 'it', text: 'Italiano' },
   { key: 'ja', value: 'ja-JP', flag: 'jp', text: '日本語' },
-  { key: 'kr', value: 'ko-KR', flag: 'kr', text: '한글' },
+  { key: 'kr', value: 'ko-KR', flag: 'kr', text: '한국어' },
   { key: 'ru', value: 'ru-RU', flag: 'ru', text: 'Русский' },
 ];
 
