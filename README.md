@@ -94,6 +94,10 @@ cd ..
 npm run dev
 ```
 
+## Contributing
+
+If you find any problems, please [open an issue](https://github.com/greymass/anchor/issues/new) or submit a fix as pull request to `develop` branch.
+
 ### Credits
 
 The development of this application is being led by members of the [Greymass](https://greymass.com) team.
